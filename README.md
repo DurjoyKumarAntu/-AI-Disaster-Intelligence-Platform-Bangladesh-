@@ -32,28 +32,28 @@ This platform bridges the gap between:
 ## 🖼️ Live Preview
 
 ### 🧭 Dashboard
-![Dashboard](screenshots/dashboard.png)
+[Dashboard](screenshots/dashboard.png)
 
 ### 🗺️ Flood Risk Map
-![Map](screenshots/map.png)
+[Map](screenshots/map.png)
 
 ### 📊 Analytics
-![Analytics](screenshots/analytics.png)
+[Analytics](screenshots/analytics.png)
 
 ### 🌧️ Simulation
-![Simulation](screenshots/simulation.png)
+[Simulation](screenshots/simulation.png)
 
 ### 📦 Resource Management
-![Resources](screenshots/resources.png)
+[Resources](screenshots/resources.png)
 
 ### 🌊 Water Monitoring
-![Water Levels](screenshots/water-levels.png)
+[Water Levels](screenshots/water-levels.png)
 
 ### 🧾 Reports
-![Reports](screenshots/reports.png)
+[Reports](screenshots/reports.png)
 
 ### 🔐 Login System
-![Login](screenshots/login.png)
+[Login](screenshots/login.png)
 
 ---
 
