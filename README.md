@@ -30,7 +30,9 @@ This platform bridges the gap between:
 ---
 
 ## 🖼️ Live Preview
+## 📌 How to View Screenshots
 
+👉 Click on each link below to open and view the corresponding screenshot in full size.
 ### 🧭 Dashboard
 [Dashboard](screenshots/dashboard.png)
 
